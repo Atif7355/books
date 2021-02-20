@@ -1,0 +1,44 @@
+
+h1
+{
+	text-align:center;
+	padding:20px;
+	background-color:chartreuse;
+	font-family:Lucida Handwriting;
+	font-weight:bold;
+	color:magenta;
+}
+div.Description
+{
+	/*background-color:#b8b894;*/
+	height:400px;
+	width:67%;
+	position:relative;
+	left:400px;
+	
+	
+}
+img
+{
+	position:relative;
+	width:250px;
+	height:200px;
+	vertical-align:bottom;
+	align:center;
+}
+
+p
+{
+	font-size:20pt;
+	text-decoration-color:maroon;
+	
+}
+h2
+{
+    background-color:cyan;
+    color:navy;
+    text-align:center;
+} 
+body {
+  background-image: url('background.jpeg');
+}
